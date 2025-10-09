@@ -29,5 +29,6 @@ Phase 4 (Week 22): Load Testing + Optimization
 Phase 5 (Week 23): Monitoring + A/B Testing Framework
 Phase 6 (Week 24): Polish + Documentation + Demo Video
 
-Optional[multi modal medical RAG system]
-[therapy bot]
+Optional
+[Multi-Modal Medical Imaging RAG System]
+[AI Therapy Chatbot]
